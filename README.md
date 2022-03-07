@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathyajith_58
 - 👀 I’m interested in Web dev & IIoT
-- 🌱 I’m currently learning Full stack web dev
+- 🌱 I’m currently working as Full stack web dev
 - 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me sathyajith.work
 
