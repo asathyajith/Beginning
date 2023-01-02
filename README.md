@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud & IoT
 - 🌱 I’m currently working as Full stack web dev
 - 💞️ I’m looking to collaborate on web dev
-- 📫 How to reach me sathyajith.work
+- 📫 How to reach me asathyajith.github.io
 
 <!---
 asathyajith/asathyajith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
