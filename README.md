@@ -10,6 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<image src="https://img.shields.io/badge/JavaScript-brightgreen"> </image> <image src="https://img.shields.io/badge/NodeJS-green"></image> <image src="https://img.shields.io/badge/ReactJS-lightblue"></image><br /> <image src="https://img.shields.io/badge/Python-yellow">
+<image src="https://img.shields.io/badge/JavaScript-brightgreen"> </image>
+<image src="https://img.shields.io/badge/NodeJS-green"> </image> 
+<image src="https://img.shields.io/badge/ReactJS-lightblue"> </image>
+<br /> 
+<image src="https://img.shields.io/badge/Python-yellow"> <image />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asathyajith)](https://github.com/anuraghazra/github-readme-stats)
