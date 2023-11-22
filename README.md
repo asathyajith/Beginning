@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sathyajith_58
-- 👀 I’m interested in Cloud & IoT
+- 👀 I’m interested in Development & IoT
 - 🌱 I’m currently working as Full stack web dev
-- 💞️ I’m looking to collaborate on web dev
+- 💞️ I’m looking to collaborate on web dev and IoT
 - 📫 How to reach me asathyajith.github.io
 
 <!---
