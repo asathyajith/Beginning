@@ -16,5 +16,6 @@ You can click the Preview link to take a look at your changes.
 <br /> 
 <image src="https://img.shields.io/badge/C-purple"> <image />
 <image src="https://img.shields.io/badge/Python-yellow"> <image />
+<image src="https://img.shields.io/badge/Arduino-cyan"> <image />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asathyajith)](https://github.com/anuraghazra/github-readme-stats)
