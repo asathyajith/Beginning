@@ -18,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 <image src="https://img.shields.io/badge/Python-F6D049"> <image />
 <image src="https://img.shields.io/badge/Arduino-009297"> <image />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asathyajith)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asathyajith)](https://github.com/anuraghazra/github-readme-stats&hide=html,css)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asathyajith)](https://github.com/anuraghazra/github-readme-stats)
